@@ -60,6 +60,7 @@ await proxy_checker.checkProxies({
         badProxiesPath: './bad.txt', //Create file on stream, add one per line bad proxies (address:port)
         showAnonymous:true, //Only for goodProxiesPath, add anonymous value  (address:port:anonymous)
         showCountry:true, //Only for goodProxiesPath, add country value  (address:port:country)
+        output: true //Show in console, it's simple console.log() with color (dead proxy = red / good proxy = green) and proxy information
     })
 ````
 
