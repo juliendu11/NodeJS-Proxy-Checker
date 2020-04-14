@@ -12,6 +12,7 @@
     "jest": "^25.3.0"
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "https-proxy-agent": "^5.0.0",
     "request": "^2.88.2"
   }
