@@ -6,10 +6,16 @@ It's simple Proxy Checker, get proxy status, anonymous level, type, time, countr
 - [ ] Type 
 - [ ] Proxy Time 
 
+## Install
+
+```bash
+npm i proxy-checkerjs
+```
+
 # How to use ?
 
 ````javascript
-  const proxy_checker = require('./lib/proxy-checker')
+  const proxy_checker = require('proxy-checkerjs"')
   await proxy_checker.getMyIP() //Important
 ````
 ### Load proxys with file
