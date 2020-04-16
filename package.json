@@ -1,6 +1,6 @@
 {
   "name": "proxy-checkerjs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "It's simple Proxy Checker, get proxy status, anonymous level, type, time, country",
   "main": "lib/proxy-checker.js",
   "scripts": {
