@@ -20,8 +20,7 @@
     "jest": "^25.3.0"
   },
   "dependencies": {
-    "axios": "^0.19.2",
-    "request": "^2.88.2"
+    "axios": "^0.19.2"
   },
   "bugs": {
     "url": "https://github.com/juliendu11/NodeJS-Proxy-Checker/issues"
