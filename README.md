@@ -15,7 +15,7 @@ npm i proxy-checkerjs
 # How to use ?
 
 ````javascript
-  const proxy_checker = require('proxy-checkerjs"')
+  const proxy_checker = require('proxy-checkerjs')
   await proxy_checker.getMyIP() //Important
 ````
 ### Load proxys with file
