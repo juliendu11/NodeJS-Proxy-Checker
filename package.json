@@ -1,18 +1,30 @@
 {
   "name": "proxy-checkerjs",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "It's simple Proxy Checker, get proxy status, anonymous level, type, time, country",
   "main": "lib/proxy-checker.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "proxy",
+    "checker"
+  ],
+  "author": "juliendu11",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliendu11/NodeJS-Proxy-Checker.git"
+  },
   "devDependencies": {
     "jest": "^25.3.0"
   },
   "dependencies": {
     "axios": "^0.19.2",
     "request": "^2.88.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/juliendu11/NodeJS-Proxy-Checker/issues"
+  },
+  "homepage": "https://github.com/juliendu11/NodeJS-Proxy-Checker#readme"
 }
