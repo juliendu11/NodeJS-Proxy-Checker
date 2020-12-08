@@ -6,6 +6,7 @@ It's simple Proxy Checker, get proxy status, anonymous level, type, time, countr
 - [ ] Type 
 - [ ] Proxy Time 
 
+## ⚠️ New version available with total redesign, unit tests and written with typescript! The new version is much better [Click Here!]( https://github.com/juliendu11/NodeJS-Proxy-CheckerV2)
 ## Install
 
 ```bash
